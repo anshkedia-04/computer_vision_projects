@@ -62,17 +62,3 @@ This repository showcases **6 impactful OpenCV projects**, combining **MediaPipe
 ✅ Real-time gesture-based control  
 ✅ Uses `pycaw` for Windows systems  
 
----
-
-## 🖼️ Demo (Screenshots & Videos)
-
-👉 Check out the [`demos/`](./demos) folder for preview images & demo clips.
-
----
-
-## 🛠️ Installation
-
-```bash
-git clone https://github.com/your-username/ai-vision-lab.git
-cd ai-vision-lab
-pip install -r requirements.txt
